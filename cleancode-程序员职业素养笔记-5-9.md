@@ -76,7 +76,7 @@
 
 ### 8.2 自动化测试金字塔
 
-![image-20210704191942920](C:\Users\wangxm47\AppData\Roaming\Typora\typora-user-images\image-20210704191942920.png)
+![](.\cleancode-img\image-20210704191942920.png)
 
 ## 9. 时间管理
 
